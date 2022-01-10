@@ -66,3 +66,8 @@ table {
   margin-right: 20px;
   background-color: rgba(227, 225, 233, 0.3);
 }
+
+th {
+  background-color: #0A82F7;
+  color: white;
+}
